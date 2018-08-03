@@ -25,7 +25,7 @@ public class Calender {
 			Calender cal = new Calender();
 			System.out.printf("%d월은 %d일까지 있습니다.\n", a, cal.getMaxDays(a));	
 		}
-		
+	
 		System.out.println("끝");
 		
 		
